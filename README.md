@@ -1,11 +1,12 @@
 # portfolio_optimization
-## Portfolio optimization with cvxopt
+## Portfolio optimization with cvxpy
 
 Do simple portfolio optimizations using historical returns from Aswath Damadoran's data and FRED
 
  - https://www.cvxpy.org
  - http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html
  - https://fred.stlouisfed.org/
+ - https://web.stanford.edu/~boyd/cvxbook/
  
 ### Environment setup
 1. git clone this repo, cd to repo directory
@@ -28,3 +29,5 @@ conda activate portfolio_opt
 ipython kernel install --user --name=portfolio_opt
 ```
 5. `jupyter notebook`
+
+6. Run `Portfolio optimization.ipynb`
