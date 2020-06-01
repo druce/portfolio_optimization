@@ -1,13 +1,17 @@
 # portfolio_optimization
 ## Portfolio optimization with cvxpy
 
+![Optimal portfolio transition map](transmap.png)
+
+![Efficient Frontier](efrontier.png)
+
 Do simple portfolio optimizations using historical returns from Aswath Damadoran's data and FRED
 
  - https://www.cvxpy.org
  - http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html
  - https://fred.stlouisfed.org/
  - https://web.stanford.edu/~boyd/cvxbook/
- 
+
 ### Environment setup
 1. git clone this repo, cd to repo directory
 
