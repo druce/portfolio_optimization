@@ -5,6 +5,8 @@
 
 ![Efficient Frontier](efrontier.png)
 
+[Portfolio optimization.ipynb](Portfolio optimization.ipynb)
+
 Do simple portfolio optimizations using historical returns from Aswath Damadoran's data and FRED
 
  - https://www.cvxpy.org
@@ -34,4 +36,4 @@ ipython kernel install --user --name=portfolio_opt
 ```
 5. `jupyter notebook`
 
-6. Run `Portfolio optimization.ipynb`
+6. Run [Portfolio optimization.ipynb](Portfolio optimization.ipynb)
