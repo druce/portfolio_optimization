@@ -1,16 +1,14 @@
 # portfolio_optimization
 ## Portfolio optimization with cvxpy
 
+Do simple portfolio optimizations using:
+
+ - [CVXPY](https://www.cvxpy.org) ([paper](https://arxiv.org/abs/1603.00943)) is a modeling environment for [convex optimization](https://web.stanford.edu/~boyd/cvxbook/), supporting [many back-end solvers](https://www.cvxpy.org/tutorial/advanced/index.html#solve-method-options).
+ - Historical returns from [Prof. Aswath Damodaran](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html) and [FRED](https://fred.stlouisfed.org/)
+
 ![Optimal portfolio transition map](transmap.png)
 
 ![Efficient Frontier](efrontier.png)
-
-Do simple portfolio optimizations using historical returns from Aswath Damadoran's data and FRED
-
- - https://www.cvxpy.org
- - http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html
- - https://fred.stlouisfed.org/
- - https://web.stanford.edu/~boyd/cvxbook/
 
 ### Environment setup
 You  *should* be able to [run directly in Google Colab](https://colab.research.google.com/github/druce/portfolio_optimization/blob/master/Portfolio%20optimization.ipynb#scrollTo=pgiV1eo3PWhx)
