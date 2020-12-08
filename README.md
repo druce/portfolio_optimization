@@ -15,6 +15,10 @@ Do simple portfolio optimizations using historical returns from Aswath Damadoran
  - https://web.stanford.edu/~boyd/cvxbook/
 
 ### Environment setup
+You  *should* be able to [run directly in Google Colab](https://colab.research.google.com/github/druce/portfolio_optimization/blob/master/Portfolio%20optimization.ipynb#scrollTo=pgiV1eo3PWhx)
+
+Or, to run locally
+
 1. git clone this repo, cd to repo directory
 
 2. Install [Anaconda](https://www.anaconda.com/products/individual)
@@ -38,4 +42,3 @@ ipython kernel install --user --name=portfolio_opt
 
 6. Run `Portfolio optimization.ipynb`
 
-7. Or *should* be able to [run directly in Google Colab](https://colab.research.google.com/github/druce/portfolio_optimization/blob/master/Portfolio%20optimization.ipynb#scrollTo=pgiV1eo3PWhx)
