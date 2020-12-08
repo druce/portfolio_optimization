@@ -5,8 +5,6 @@
 
 ![Efficient Frontier](efrontier.png)
 
-Run `Portfolio optimization.ipynb`
-
 Do simple portfolio optimizations using historical returns from Aswath Damadoran's data and FRED
 
  - https://www.cvxpy.org
