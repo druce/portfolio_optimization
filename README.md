@@ -25,7 +25,9 @@ conda create -n portfolio_opt
 conda activate portfolio_opt
 pip install -r requirements.txt
 ```
-    or
+
+or
+	
 ```
 conda env create -f environment.yaml
 conda activate portfolio_opt
