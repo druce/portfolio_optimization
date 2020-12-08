@@ -20,7 +20,7 @@ Do simple portfolio optimizations using:
 
 This follows the [cvxpy tutorial](https://colab.research.google.com/github/cvxgrp/cvx_short_course/blob/master/applications/portfolio_optimization.ipynb) but including real historical data, and computing a full efficient frontier and transition map.
 
-Takeaways / blinding glimpses of the obvious:
+#### Takeaways / blinding glimpses of the obvious:
 
  - Gold adds some value for most portfolios, except in most disinflationary environment at higher risk tolerances. (Of course TIPS may be a better inflation hedge but we don't have data back very far).
  - If you can find good shorts and use leverage, you can supercharge returns.
