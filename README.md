@@ -37,3 +37,5 @@ ipython kernel install --user --name=portfolio_opt
 5. `jupyter notebook`
 
 6. Run `Portfolio optimization.ipynb`
+
+7. Or *should* be able to [run directly in Google Colab](https://colab.research.google.com/github/druce/portfolio_optimization/blob/master/Portfolio%20optimization.ipynb#scrollTo=pgiV1eo3PWhx)
