@@ -18,6 +18,8 @@ Do simple portfolio optimizations using:
 5. Compute long-short efficient frontier and transition map, adding a random short asset with 5% annualized negative return and 90% correlation to S&P, and adding a 150% gross exposure constraint.
 6. Compute efficient frontier using a factor model, using random set of returns for 1000 stocks and 10 random factor exposures and random factor covariances.
 
+Basically follows the [cvxpy tutorial](https://colab.research.google.com/github/cvxgrp/cvx_short_course/blob/master/applications/portfolio_optimization.ipynb) but including real historical data, and computing a full efficient frontier and transition map.
+
 ## Setup
 
 You  *should* be able to [run directly in Google Colab](https://colab.research.google.com/github/druce/portfolio_optimization/blob/master/Portfolio%20optimization.ipynb#scrollTo=pgiV1eo3PWhx).
