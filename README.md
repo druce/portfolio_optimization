@@ -1,6 +1,6 @@
 # Portfolio optimization with CVXPY
 
-Do simple portfolio optimizations using:
+Do a few classic portfolio optimizations using:
 
  - [CVXPY](https://www.cvxpy.org) ([paper](https://arxiv.org/abs/1603.00943)), a modeling environment for [convex optimization](https://web.stanford.edu/~boyd/cvxbook/), supporting [many back-end solvers](https://www.cvxpy.org/tutorial/advanced/index.html#solve-method-options).
  - Data (mostly) from [Prof. Aswath Damodaran](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html) and [FRED](https://fred.stlouisfed.org/)
@@ -16,9 +16,9 @@ Do simple portfolio optimizations using:
 3. Manually fill in some missing data back to 1928.
 4. Compute covariance matrix, long-only efficient frontier, and transition map using historical data (see above). Also compute same outputs for 1972-present (post-gold standard) and 1983-present (post-inflation era).
 5. Compute long-short efficient frontier and transition map, adding a random short asset with 5% annualized negative return and 90% correlation to S&P, and adding a 150% gross exposure constraint.
-6. Compute efficient frontier using a factor model, using random set of returns for 1000 stocks and 10 random factor exposures and random factor covariances.
+6. Compute an efficient frontier using a factor model, using a random set of returns for 1000 stocks and 10 random factor exposures and a random factor covariance matrix.
 
-This follows the [cvxpy tutorial](https://colab.research.google.com/github/cvxgrp/cvx_short_course/blob/master/applications/portfolio_optimization.ipynb) but including real historical data, and computing a full efficient frontier and transition map.
+This follows the [cvxpy tutorial](https://colab.research.google.com/github/cvxgrp/cvx_short_course/blob/master/applications/portfolio_optimization.ipynb) but uses real historical data, and visualizes the full efficient frontier and transition map.
 
 #### Takeaways / blinding glimpses of the obvious:
 
