@@ -11,7 +11,7 @@ Do a few classic portfolio optimizations using:
 
 ## Online data
 
-- [Aswath Damodaran](https://pages.stern.nyu.edu/~adamodar/)
+- [Aswath Damodaran](https://pages.stern.nyu.edu/~adamodar/). See the [FAQ tab in his XLS](https://www.stern.nyu.edu/~adamodar/pc/datasets/histretSP.xls) for details on individual asset returns.
 - [FRED](https://fred.stlouisfed.org/)
 - [Shiller data](http://www.econ.yale.edu/~shiller/data.htm)
 - [Ken French](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
