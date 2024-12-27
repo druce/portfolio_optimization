@@ -17,7 +17,7 @@ Do a few classic portfolio optimizations using:
 - [Ken French](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 - [Macrotrends](https://www.macrotrends.net/)
 
-Currently use Damodaran data for returns, Macrotrends for gold (looking for a good free source since FRED and Quandl no longer available)
+Currently use Damodaran data for returns.
 
 ## Steps
 
