@@ -29,9 +29,10 @@ Currently use Damodaran data for returns.
 6. Compute some allocations using hierarchical risk parity model for comparison.
 6. Compute an efficient frontier using a factor model, using a random set of returns for 1000 stocks and 10 random factor exposures and a random factor covariance matrix.
 
+
 This mostly follows the [cvxpy tutorial](https://colab.research.google.com/github/cvxgrp/cvx_short_course/blob/master/applications/portfolio_optimization.ipynb) but uses real historical data, and visualizes the full efficient frontier and transition map.
 
-#### Takeaways / blinding glimpses of the obvious:
+#### Takeaways 
 
  - Gold adds some value for most portfolios, except in most disinflationary environment at higher risk tolerances. 
  - TIPS should be a more direct inflation hedge with a US government guaranteed real return but we don't have data back very far.
@@ -60,3 +61,7 @@ conda activate portfolio_opt
 
 5. Run `Portfolio optimization.ipynb`
 
+## Further reading
+
+ - [CVXPY tutorial](https://www.cvxpy.org/version/1.1/tutorial/index.html)
+ - [Convex optimization short course](https://stanford.edu/~boyd/papers/cvx_short_course.html)
