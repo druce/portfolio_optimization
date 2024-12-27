@@ -9,6 +9,16 @@ Do a few classic portfolio optimizations using:
 
 ![Optimal portfolio transition map](transmap.png)
 
+## Online data
+
+- [Aswath Damodaran](https://pages.stern.nyu.edu/~adamodar/)
+- [FRED](https://fred.stlouisfed.org/)
+- [Shiller data](http://www.econ.yale.edu/~shiller/data.htm)
+- [Ken French](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+- [Macrotrends](https://www.macrotrends.net/)
+
+Currently use Damodaran data for returns, Macrotrends for gold (looking for a good free source since FRED and Quandl no longer available)
+
 ## Steps
 
 1. Load asset return data from Damodaran website using `pd.read_excel`.
