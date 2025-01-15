@@ -68,10 +68,10 @@ conda activate portfolio_opt
 
 Asset allocation books:
 
-[David Swensen - Pioneering Portfolio Management: An Unconventional Approach to Institutional Investment](https://www.amazon.com/Pioneering-Portfolio-Management-Unconventional-Institutional/dp/1416544690)
-[Bernstein - The Intelligent Asset Allocator: How to Build Your Portfolio to Maximize Returns and Minimize Risk ](https://www.amazon.com/Intelligent-Asset-Allocator-Portfolio-Maximize/dp/1260026647)
-[Kinlaw et al - Asset Allocation: From Theory to Practice and Beyond (Wiley Finance) 1st Edition](https://www.amazon.com/Asset-Allocation-Theory-Practice-Finance/dp/1119817714)
-[Fabozzi and Markowitz, ed. - The Theory and Practice of Investment Management: Asset Allocation, Valuation, Portfolio Construction, and Strategies](https://www.amazon.com/Theory-Practice-Investment-Management-Construction/dp/0470929901)
-[Muralidhar - Innovations in Pension Fund Management 1st Edition](https://www.amazon.com/Innovations-Pension-Fund-Management-Muralidhar/dp/0804745218)
-[Ferri - All About Asset Allocation Paperback ](https://www.amazon.com/About-Asset-Allocation-Richard-Ferri/dp/0071429581)
-[Faber - Global Asset Allocation: A Survey of the World's Top Asset Allocation Strategies](https://www.amazon.com/Global-Asset-Allocation-Survey-Strategies/dp/0988679922)
+ - [David Swensen - Pioneering Portfolio Management: An Unconventional Approach to Institutional Investment](https://www.amazon.com/Pioneering-Portfolio-Management-Unconventional-Institutional/dp/1416544690)
+ - [Bernstein - The Intelligent Asset Allocator: How to Build Your Portfolio to Maximize Returns and Minimize Risk ](https://www.amazon.com/Intelligent-Asset-Allocator-Portfolio-Maximize/dp/1260026647)
+ - [Kinlaw et al - Asset Allocation: From Theory to Practice and Beyond (Wiley Finance) 1st Edition](https://www.amazon.com/Asset-Allocation-Theory-Practice-Finance/dp/1119817714)
+ - [Fabozzi and Markowitz, ed. - The Theory and Practice of Investment Management: Asset Allocation, Valuation, Portfolio Construction, and Strategies](https://www.amazon.com/Theory-Practice-Investment-Management-Construction/dp/0470929901)
+ - [Muralidhar - Innovations in Pension Fund Management 1st Edition](https://www.amazon.com/Innovations-Pension-Fund-Management-Muralidhar/dp/0804745218)
+ - [Ferri - All About Asset Allocation Paperback ](https://www.amazon.com/About-Asset-Allocation-Richard-Ferri/dp/0071429581)
+ - [Faber - Global Asset Allocation: A Survey of the World's Top Asset Allocation Strategies](https://www.amazon.com/Global-Asset-Allocation-Survey-Strategies/dp/0988679922)
