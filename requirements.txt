@@ -9,4 +9,8 @@ matplotlib
 xlrd
 cvxpy
 riskfolio-lib
+python-dotenv
+yapf # jupyter pretty-print
+openbb[all]
+
 
