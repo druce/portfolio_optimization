@@ -13,4 +13,6 @@ python-dotenv
 yapf # jupyter pretty-print
 openbb[all]
 nevergrad
+optuna
+ax-platform[notebook]
 
