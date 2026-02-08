@@ -17,7 +17,7 @@ Do a few classic portfolio optimizations using:
 - [Ken French](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 - [Macrotrends](https://www.macrotrends.net/)
 
-Currently use Damodaran data for returns.
+Uses Damodaran data for returns.
 
 ## Steps
 
@@ -45,17 +45,11 @@ This mostly follows the [cvxpy tutorial](https://colab.research.google.com/githu
 
 3. Create virtual environment
 ```
-conda create -n portfolio_opt
-conda activate portfolio_opt
+conda create -n portfolio_optimization
+conda activate portfolio_optimization
 pip install -r requirements.txt
 ```
 
-or
-	
-```
-conda env create -f environment.yaml
-conda activate portfolio_opt
-```
 4. `jupyter notebook`
 
 5. Run `Portfolio optimization.ipynb`
